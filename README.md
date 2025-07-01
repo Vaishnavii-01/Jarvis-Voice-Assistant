@@ -6,7 +6,6 @@ A Python-based voice assistant that performs a range of desktop tasks using voic
 
 ## 🎯 Features
 
-- Tells the current time
 - Takes screenshots
 - Plays random music from your system
 - Opens websites like Google, YouTube, Instagram
